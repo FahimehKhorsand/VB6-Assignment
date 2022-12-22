@@ -1,0 +1,3 @@
+frmMainMenu = 26, 26, 782, 452, , 0, 40, 972, 575, C
+frmInterestCalculation = 122, 56, 792, 482, , 155, 39, 825, 465, C
+frmLoanPaymentCalculation = 104, 104, 774, 530, , 78, 78, 748, 504, C
